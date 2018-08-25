@@ -1,1 +1,1 @@
-cow_name = "george"
+cow_name = "joe"
